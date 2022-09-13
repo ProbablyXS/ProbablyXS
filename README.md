@@ -20,4 +20,6 @@ Watch [my repositories](https://github.com/ProbablyXS?tab=repositories).
 
 <br>
 
-![SVG](https://app.svgator.com/assets/svgator.webapp/log-in-girl.svg)
+<div style="text-align-last: center;" align="center">
+<img src="https://app.svgator.com/assets/svgator.webapp/log-in-girl.svg" width=50% height=50%>
+</div>

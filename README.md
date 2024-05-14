@@ -1,7 +1,7 @@
 ### Welcome to my primary github account 👋
 
 ## **`Information`**
-Hey i'm kind person and i can tell you i can be better each days because my performance is very higher same for my strength.
+I'm a nice person and I can tell you that I can improve day by day because my performance is very high, as is my strength.
 
 Watch [my repositories](https://github.com/ProbablyXS?tab=repositories).
  

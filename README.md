@@ -1,8 +1,5 @@
 ### Welcome to my primary github account 👋
 
-## **`Information`**
-I'm a nice person and I can tell you that I can improve day by day because my performance is very high, as is my strength.
-
 Watch [my repositories](https://github.com/ProbablyXS?tab=repositories).
  
  ## **Languages** 

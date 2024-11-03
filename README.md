@@ -32,7 +32,7 @@ I love coding and building applications that solve real-world problems. With a s
 
 ## 📫 Get in Touch
 
-I'm always open to collaborating on interesting projects or discussing new ideas! You can reach me through my GitHub or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
+I'm always open to collaborating on interesting projects or discussing new ideas! You can reach me through my GitHub or connect with me on [LinkedIn](https://www.linkedin.com/in/corantin-berger).
 
 <br>
 

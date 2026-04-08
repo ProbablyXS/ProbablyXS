@@ -3,6 +3,7 @@
 Welcome to my GitHub profile! I’m a passionate developer skilled in a variety of technologies. Feel free to check out my [repositories](https://github.com/ProbablyXS?tab=repositories) and explore my projects.
 
 ## 🌟 About Me
+UPDATE: 2026 Idle Knight Game on steam 😊
 
 I love coding and building applications that solve real-world problems. With a solid foundation in both front-end and back-end development, I'm always eager to learn new technologies and improve my skills.
 
